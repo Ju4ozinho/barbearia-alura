@@ -1,0 +1,18 @@
+body{
+    background:#CCCCCC;
+}
+
+h1{
+    color:aqua;
+    background:rgb(0, 0, 0);
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    front-size: 20px
+}
+
+em strong{
+    color: #ff6788;
+}
