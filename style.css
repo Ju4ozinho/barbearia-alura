@@ -2,6 +2,14 @@ body{
     background:#CCCCCC;
 }
 
+#banner{
+    width: 100%
+}
+
+.principal{
+     background: #CCCCCC;  
+}
+
 h1{
     color:aqua;
     background:rgb(0, 0, 0);
@@ -10,9 +18,24 @@ h1{
 
 p{
     text-align: center;
-    front-size: 20px
+    font-size: 20px
 }
 
+#missao{
+    font-size: 25px;
+}
 em strong{
     color: #ff6788;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficos{
+    background-color: #FFFFFF;
+}
+
+h2{
+    text-align: center;
 }
